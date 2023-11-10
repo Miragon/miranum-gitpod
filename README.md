@@ -12,10 +12,10 @@
 <br />
 <div align="center">
     <a href="https://miranum.io">
-        <img src="https://github.com/miragon/miranum-gitpod/tree/main/images/miranum_logo.png?raw=true" alt="Miranum Logo" height="180">
+        <img src="https://github.com/miragon/miranum-gitpod/blob/main/images/miranum_logo.png?raw=true" alt="Miranum Logo" height="180">
     </a>
     <a href="https://www.gitpod.io/">
-        <img src="https://github.com/miragon/miranum-gitpod/tree/main/images/gitpod_logo.svg?raw=true" alt="GitPod Logo" height="180">
+        <img src="https://github.com/miragon/miranum-gitpod/blob/main/images/gitpod_logo.svg?raw=true" alt="GitPod Logo" height="180">
     </a>
     <h3 ><a href="https://miranum.com/">Miranum IDE</a> <i>by <a href="https://miragon.io/">Miragon</a></i></h3>
     <p>
