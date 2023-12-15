@@ -64,6 +64,11 @@ This repository showcases the use of [GitPod](https://www.gitpod.io/) together w
    |:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|
    | <img src="images/allow_gitpod_to_open_url.png" height="250" alt="Allow Gitpod to open URL"> | <img src="images/trust_author.png" height="250" alt="Trust Author"> |
 
+7. Disconnect from the Workspace
+   * via *Gitpod Plugin*
+      * Open the View
+   * via *Command Palette*
+
 ## Usage
 
 ### Push to GitHub via Gitpod
