@@ -8,10 +8,6 @@
 [![MIT License][license-shield]][license-url]
 <!-- END OF PROJECT SHIELDS -->
 
-test
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -21,10 +17,6 @@ test
     <a href="https://www.gitpod.io/" style="text-decoration: none">
         <img src="https://github.com/miragon/miranum-gitpod/blob/main/images/gitpod_logo.svg?raw=true" alt="GitPod Logo" height="180">
     </a>
-    <h3 ><a href="https://miranum.com/">Miranum IDE</a> <i>by <a href="https://miragon.io/">Miragon</a></i></h3>
-    <p>
-        <i>One IDE for everything!</i>
-    </p>
 </div>
 
 ## About The Project
