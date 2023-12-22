@@ -1,20 +1,21 @@
 {
-  "key": "test_control",
-  "schema": {
-    "type": "object",
-    "x-display": "stepper",
-    "allOf": [
-        {
-            "title": "Abschnitt",
-            "description": "",
-            "type": "object",
-            "x-options": {
-                "sectionsTitlesClasses": [
-                    "d-none"
-                ]
-            },
-            "allOf": []
-        }
-    ]
+    "key": "test_control",
+    "schema": {
+        "type": "object",
+        "x-display": "stepper",
+        "allOf": [
+            {
+                "title": "Abschnitt",
+                "description": "",
+                "type": "object",
+                "x-options": {
+                    "sectionsTitlesClasses": [
+                        "d-none"
+                    ]
+                },
+                "allOf": [],
+                "key": "c49e3a14-aeed-48da-acb6-ba18bcd109b9"
+            }
+        ]
     }
 }
